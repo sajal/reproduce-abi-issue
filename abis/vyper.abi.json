@@ -1,0 +1,25 @@
+[
+  {
+    "stateMutability": "nonpayable",
+    "type": "constructor",
+    "inputs": [],
+    "outputs": []
+  },
+  {
+    "stateMutability": "pure",
+    "type": "function",
+    "name": "doMath",
+    "inputs": [
+      {
+        "name": "items",
+        "type": "(uint256,uint256)[5]"
+      }
+    ],
+    "outputs": [
+      {
+        "name": "",
+        "type": "uint256"
+      }
+    ]
+  }
+]
